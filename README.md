@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ghtdeveloper
-- 👀 I’m interested in CODE+CODE+FUTURAMA
-- 🌱 I’m currently learning Android
+- 👀 I’m interested in CODE 
+- 💞️ Love Android and Kotlin
+- 💞️ Love Anime, Futurama and pizza
 - 💞️ I’m looking to collaborate on diferent proyects
 - 📫 How to reach me ghtdeveloper@gmail.com
 
