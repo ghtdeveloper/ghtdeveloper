@@ -3,7 +3,7 @@
 - 💞️ Love Android and Kotlin
 - 💞️ Love Anime, Futurama and pizza
 - 💞️ I’m looking to collaborate on diferent proyects
-- 📫 How to reach me ghtdeveloper@gmail.com
+- 📫 How to reach me ghtdeveloper@gmail.com or jedsolutioncontact@gmail.com
 
 <!---
 ghtdeveloper/ghtdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
